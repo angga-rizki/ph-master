@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 595897468b2a89345a4ffccaa1a94af2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tanganGloveSprite: {fileID: 21300000, guid: e6c1ddcffde33914f96c3f444977623a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartPage.unity
+    guid: ba21665e160b9fc43b22917721e56b7e
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 9956b7c2da6b4a14f848510ba1506e63
+  - enabled: 1
+    path: Assets/Scenes/MenuSimulasi.unity
+    guid: 8d182834c9af2dd48a2c52c087e11314
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/SimulasiUjiPH.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama.unity
+    guid: 96f1ec96e6e17a84ea6c51a33416a689
+  - enabled: 1
+    path: Assets/Scenes/MenuLab.unity
+    guid: 2a3617820ad9e2b4f8a98563fca91d22
+  - enabled: 1
+    path: Assets/Scenes/MenuKelas.unity
+    guid: b4923d9dcc92109449ef5169a21204c9
+  - enabled: 1
+    path: Assets/Scenes/Konten/PetunjukUtama.unity
+    guid: 1944dc4d06a0dd94896fcef0187ac8a4
+  - enabled: 1
+    path: Assets/Scenes/Konten/TentangMedia.unity
+    guid: 100d964083b01084880840cd0c258d1d
+  - enabled: 1
+    path: Assets/Scenes/Konten/ProfilPengembang.unity
+    guid: 22d199c1f40c99445a8a107f899a2525
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/PraktikumMaterialDiKehidupan.unity
+    guid: 1b90eaf11403c374f8c870449860c202
+  - enabled: 1
+    path: Assets/Scenes/Konten/Posttest.unity
+    guid: a22f1014eb6422e4ea0e22b652153738
+  - enabled: 1
+    path: Assets/Scenes/Konten/Pretest.unity
+    guid: 4d11c46e689f1c64dacd1fce0ad63189
+  - enabled: 1
+    path: Assets/Scenes/Konten/MateriAsamBasa.unity
+    guid: 93d1cd6a4c38f714e9a1ba5a9822856d
+  - enabled: 1
+    path: Assets/Scenes/Konten/MateriDerajatKeasaman.unity
+    guid: a2e8f4399d115974d8a88a656db6f1ee
+  - enabled: 1
+    path: Assets/Scenes/Konten/MateriK3.unity
+    guid: 5e53551cbfd01a8468716779ca6e54d0
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/SimulasiK3.unity
+    guid: 7d37c87f99eb44b41b1883b89bf0dc50
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/TutorialUjiPh.unity
+    guid: 1a42e3a47446b1248b5ebc66969e6d7d
+  - enabled: 1
+    path: Assets/Scenes/Simulasi/TutorialUjiPhMeter.unity
+    guid: 340ffec1288cad64d8eaf7efee5709f3
+  m_configObjects: {}
